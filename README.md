@@ -1,5 +1,5 @@
 # Cook's House app made with React 
-## for this project I'm used :
+## About that project, I'm using :
 ### [framer-motion](https://www.framer.com/motion/)
 ### [styled-components](https://styled-components.com/)
 ### [React-Icons](https://react-icons.github.io/react-icons/)
