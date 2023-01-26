@@ -1,4 +1,4 @@
-# Cook's House app made with React 
+# Cook's House app made with React [live-preview](http://cook-house.lovestoblog.com/)
 ## About that project, I'm using :
 ### [framer-motion](https://www.framer.com/motion/)
 ### [styled-components](https://styled-components.com/)
