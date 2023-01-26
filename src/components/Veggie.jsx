@@ -23,7 +23,6 @@ import '@splidejs/splide/css';
         localStorage.setItem('veggie',JSON.stringify(data.recipes));
         
         setVeggie(data.recipes);
-        console.log(data)
         }
 
         

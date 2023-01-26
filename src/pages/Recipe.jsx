@@ -12,8 +12,6 @@ function Recipe() {
     const data = await fetch(`https://api.spoonacular.com/recipes/${params.detail}/information?apiKey=${process.env.REACT_APP_API_KEY}`);
     const detailData = await data.json();
     setDetails(detailData);
-    console.log(detailData)
-    
   }
 
   useEffect(()=>{
