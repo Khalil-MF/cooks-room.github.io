@@ -9,7 +9,7 @@ function Home() {
     <motion.div 
     animate={{ opacity : 1 }}
     initial={{opacity:0}}
-  transition={{ ease: "easeOut", duration: 1.5 }} >
+  transition={{ ease: "easeOut", duration: 1.6 }} >
         <Veggie/>
         <Popular/>
     </motion.div>
